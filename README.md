@@ -1,2 +1,2 @@
 # Upside-Down-Reinforcement-Learning
-Landing SpaceX Rocket using Upside-Down Reinforcement Learning or ⅂ꓤ
+Landing SpaceX Falcon Rocket using Upside-Down Reinforcement Learning (a.k.a ⅂ꓤ)
