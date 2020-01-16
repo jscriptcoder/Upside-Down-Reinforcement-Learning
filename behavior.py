@@ -28,10 +28,13 @@ class Behavior(torch.nn.Module):
         
     
     def forward(self, state, command):
-        
         state_output = self.state_fc(state)
         command_output = self.command_fc(command * self.command_scale)
-        
         embedding = torch.mul(state_output, command_output)
-        
         return self.output_fc(embedding)
+    
+    def action(self, state, command):
+        logits = self.forward(state, command)
+        probs = torch.softmax(logits, dim=-1)
+        dist = torch.distributions.Categorical(probs)
+        return dist.sample()
