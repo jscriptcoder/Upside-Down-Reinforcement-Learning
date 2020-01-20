@@ -42,7 +42,7 @@ Continuous control inputs are:
 
 """
 
-CONTINUOUS = True
+CONTINUOUS = False
 VEL_STATE = True  # Add velocity info to state
 FPS = 60
 SCALE_S = 0.35  # Temporal Scaling, lower is faster - adjust forces appropriately
