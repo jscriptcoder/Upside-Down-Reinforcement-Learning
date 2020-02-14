@@ -12,4 +12,7 @@ Traditional Reinforcement Learning (RL) algorithms either predict rewards with v
 
 ## Results
 
-TODO
+<img src="images/results_udrl.png" />
+
+<img src="images/comparison_desired-vs-actual.png" />
+
