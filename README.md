@@ -2,8 +2,9 @@
 
 Landing a Spaceship using Upside-Down Reinforcement Learning (a.k.a ⅂ꓤ)
 
-See [project here]()
-See [paper here]()
+See [project here](https://jscriptcoder.github.io/upside-down-rl/Upside-Down_RL.html)
+
+See [paper here](https://arxiv.org/abs/1912.02877)
 
 ## Abstract
 
