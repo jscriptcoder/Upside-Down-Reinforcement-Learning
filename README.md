@@ -16,4 +16,4 @@ Traditional Reinforcement Learning (RL) algorithms either predict rewards with v
 
 <img src="images/comparison_desired-vs-actual.png" />
 
-<img src="images/solved_lunar-lander.gif" />
+<p><img src="images/solved_lunar-lander.gif" /></p>
