@@ -4,7 +4,7 @@ Landing a Spaceship using Upside-Down Reinforcement Learning (a.k.a ⅂ꓤ)
 
 This research is based on the paper [Training Agents using Upside-Down Reinforcement Learning](https://arxiv.org/abs/1912.02877) submitted on 5 Dec 2019 by Rupesh Kumar Srivastava, Pranav Shyam, Filipe Mutz, Wojciech Jaśkowski and Jürgen Schmidhuber
 
-See project research and my implementation [here](https://jscriptcoder.github.io/upside-down-rl/Upside-Down_RL.html), solving OpenAI Gym [LunarLander v2](https://gym.openai.com/envs/LunarLander-v2/) environment.
+See [project research and my implementation](https://jscriptcoder.github.io/upside-down-rl/Upside-Down_RL.html), solving OpenAI Gym [LunarLander v2](https://gym.openai.com/envs/LunarLander-v2/) environment.
 
 ## Abstract
 
